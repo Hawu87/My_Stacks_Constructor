@@ -40,12 +40,6 @@ class Stack:
 
 
 
-my_stack = Stack(2)
 
-my_stack.push(1)
-
-
-
-print(my_stack.pop())
 
 
